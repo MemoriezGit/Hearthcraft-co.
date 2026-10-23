@@ -1,0 +1,1 @@
+{"name":"Mom's Recipe Box","short_name":"Recipe Box","description":"A simple private cookbook for photographed recipes","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#fbfcf8","theme_color":"#365b49","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
